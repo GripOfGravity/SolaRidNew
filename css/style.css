@@ -134,14 +134,6 @@ img {
     font-size: 30px;
 }
 
-.banner .textblock {
-    background: rgba(0, 0, 0, 0.8);
-}
-
-.bannerheader {
-    margin-bottom:-75px;
-}
-
 .bannerheader .text-block {
     width: 100%;
     color: white;
@@ -150,7 +142,7 @@ img {
 }
 
 .text-block {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .banner .text-block {
@@ -180,7 +172,7 @@ p {
     margin-right: auto;
     line-height: 40px;
     text-align: center;
-    font-size:1.3rem;
+    font-size: 1.3rem;
 }
 
 nav img {
@@ -307,6 +299,10 @@ ol.aligncenter li {
         padding: 20px;
     }
 
+    .bannerheader {
+        margin-bottom: -50px;
+    }
+
     #businessgrid,
     #contactgrid {
         display: grid;
@@ -336,6 +332,10 @@ ol.aligncenter li {
 
     .bannerheader .bannerimage {
         height: 400px;
+    }
+
+    .bannerheader {
+        margin-bottom: -75px;
     }
 
     .banner .bannerimage {
