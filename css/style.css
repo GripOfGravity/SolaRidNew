@@ -175,9 +175,8 @@ h3 {
 p {
     margin-left: auto;
     margin-right: auto;
-    padding-left: 10px;
-    padding-right: 10px;
     line-height: 40px;
+    text-align: center;
 }
 
 nav img {
@@ -302,6 +301,11 @@ ol.aligncenter li {
 
     table td {
         padding: 20px;
+    }
+
+    p {
+
+        margin-bottom: 70px;
     }
 
     #businessgrid,
