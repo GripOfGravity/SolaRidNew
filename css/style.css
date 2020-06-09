@@ -146,13 +146,12 @@ img {
 }
 
 .text-block {
-
     background-color: rgba(0, 0, 0, 0.8);
 }
 
 .banner .text-block {
     height: 100%;
-    bottom: 1px;
+    bottom: .1px;
 }
 
 h2 {
@@ -302,7 +301,6 @@ ol.aligncenter li {
     table td {
         padding: 20px;
     }
-
 
     #businessgrid,
     #contactgrid {
