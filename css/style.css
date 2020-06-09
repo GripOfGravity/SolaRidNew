@@ -138,6 +138,10 @@ img {
     background: rgba(0, 0, 0, 0.8);
 }
 
+.bannerheader {
+    margin-bottom:-75px;
+}
+
 .bannerheader .text-block {
     width: 100%;
     color: white;
@@ -176,6 +180,7 @@ p {
     margin-right: auto;
     line-height: 40px;
     text-align: center;
+    font-size:1.3rem;
 }
 
 nav img {
@@ -323,10 +328,6 @@ ol.aligncenter li {
 @media only screen and (min-width:1080px) {
     h2 {
         font-size: 40px;
-    }
-
-    p {
-        font-size: 1.25rem;
     }
 
     .content {
