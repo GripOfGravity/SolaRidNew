@@ -147,7 +147,6 @@ img {
 
 .banner .text-block {
     height: 100%;
-    bottom: .1px;
 }
 
 h2 {
@@ -173,6 +172,10 @@ p {
     line-height: 40px;
     text-align: center;
     font-size: 1.3rem;
+}
+
+p{
+    padding: 0% 15% 2.5% 15%;
 }
 
 nav img {
@@ -585,6 +588,10 @@ nav > #nav-check {
 
 .text-info {
     display: none;
+}
+
+.cca{
+    display:block;
 }
 
 @media only screen and (max-width:1200px) {
